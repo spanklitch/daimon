@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/daimon-icon.jpg" alt="Daimon" width="200" />
+</p>
+
 # Daimon
 
 **The Personal AI Conscience for the Agentic Era**
