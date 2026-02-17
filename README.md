@@ -135,11 +135,13 @@ That's what's missing. Not capability. Not regulation. *Conscience.*
 
 ## Project Status
 
-Daimon is currently in the **concept and design phase**. We're developing the framework, mental models, and architectural foundations before writing code. This is intentional — the ideas need to be right before the implementation.
+Daimon is in active development. The concept and architectural foundations are established, and the first practical implementation layer is live.
 
-What exists today:
-- This concept document
-- An open invitation for contributors to shape the direction
+**[openclaw-diamon](https://github.com/spanklitch/openclaw-diamon)** — The Diamon (Decision Diamond) framework is the practical infrastructure that makes Daimon possible. It provides a human-readable, machine-executable file format (DIAMON.md) for encoding values, decision heuristics, and prohibitions that any AI agent can reference. The OpenClaw reference implementation includes a parser, decision engine, memory curator, and validation workflow.
+
+- **Daimon** describes *what* a personal AI conscience should do
+- **Diamon** specifies *how* to encode the decision-making framework
+- **openclaw-diamon** is the first working implementation
 
 What comes next:
 - Threat taxonomy: a structured catalog of specific harms that personal AI agents can cause
